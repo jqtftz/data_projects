@@ -4,8 +4,7 @@ repo;
 
 -- create repo
 create table if not exists repo(
-  repo_id int primary key,
-  repo_name text
+  repo_id int primary key
 );
 
 -- drop owner
@@ -15,17 +14,43 @@ owner;
 -- create owner
 create table if not exists owner(
   owner_id int primary key,
-  owner_login text
+  owner_login text,
+  name text,
+  html_url text,
+  blog text,
+  type text,
+  user_view_type text,
+  location text,
+  bio text,
+  public_repos int
 );
 
--- drop repo_owner
+-- drop repo_info
 drop table if exists
-repo_owner;
+repo_info;
 
--- create repo_owner
-create table if not exists repo_owner(
+-- create repo_info
+create table if not exists repo_info(
+  repo_id int primary key references repo(repo_id) on delete cascade,
+  owner_id int references owner(owner_id) on delete cascade,
+  name text,
+  description text,
+  html_url text,
+  homepage text,
+  language text,
+  visibility text,
+  archived boolean,
+  license_name text
+);
+
+-- drop repo_topics
+drop table if exists
+repo_topics;
+
+-- create repo_topics
+create table if not exists repo_topics(
   repo_id int references repo(repo_id) on delete cascade,
-  owner_id int references owner(owner_id) on delete restrict
+  topics text
 );
 
 -- drop repo_stats
@@ -38,5 +63,6 @@ create table if not exists repo_stats(
   forks_count int,
   open_issues_count int,
   stargazers_count int,
+  subscribers_count int,
   dt_time timestamp
 );
