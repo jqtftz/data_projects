@@ -5,6 +5,12 @@
 |---|---|---|
 | [Расчет юнит-экономики](https://github.com/jqtftz/data_projects/blob/main/product_analytics.ipynb) | Вы — продуктовый аналитик развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс. | pandas, numpy, seaborn, matplotlib, statsmodels |
 
+## Визуализация данных
+### New Year Dataviz Calendar
+| День | Описание | Инструменты |
+|---|---|---|
+| [Day 1 - Christmas & New Year Songs](https://github.com/jqtftz/data_projects/blob/main/dataviz/new%20year%20-%20dataviz%202025/day1/christmas_new_year_songs.ipynb) | Визуализация 10 наиболее популярных новогодних и рождественских песен по количеству прослушиваний | pandas, seaborn, matplotlib |
+
 ## Маркетинговая аналитика
 | Название проекта | Описание проекта | Инструменты |
 |---|---|---|
