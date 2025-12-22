@@ -11,6 +11,7 @@
 | День | Описание | Инструменты |
 |---|---|---|
 | [Day 1 - Christmas & New Year Songs](https://github.com/jqtftz/data_projects/blob/main/dataviz/new%20year%20-%20dataviz%202025/day1/christmas_new_year_songs.ipynb) | Визуализация 10 наиболее популярных новогодних и рождественских песен по количеству прослушиваний | pandas, seaborn, matplotlib |
+| [Day 3 - Traditional Holiday Dishes](https://github.com/jqtftz/data_projects/blob/main/dataviz/new%20year%20-%20dataviz%202025/day3/traditional_holiday_dishes.ipynb) | Визуализация иерархии 'регион - субрегион - страна - рождественское блюдо' с помощью Treemap | pandas, plotly |
 
 ## Маркетинговая аналитика
 | Название проекта | Описание проекта | Инструменты |
