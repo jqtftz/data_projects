@@ -1,0 +1,170 @@
+Country,Dish_Name,Category,Description,When_Served,Main_Ingredients,Type
+Poland,Barszcz,Soup,Traditional beetroot soup served at Christmas Eve feast,Christmas Eve,Beetroot; vegetables; herbs,Savory
+Poland,Pierogi,Main,Filled dumplings served as part of 12-dish Christmas Eve meal,Christmas Eve,Dough; potato; cheese; mushrooms,Savory
+Poland,Carp,Main,Traditional fish dish from the 12-course Christmas Eve dinner,Christmas Eve,Carp; spices,Savory
+France,Bûche de Noël,Dessert,Yule log cake decorated with chocolate buttercream resembling tree bark,Christmas,Sponge cake; chocolate; buttercream,Sweet
+France,Oysters,Appetizer,Fresh oysters served as part of seafood-focused Christmas dinner,Christmas,Oysters,Savory
+France,Foie Gras,Appetizer,Luxury goose or duck liver pâté,Christmas,Duck or goose liver,Savory
+Germany,Roasted Goose,Main,Traditional roasted bird with crispy skin,Christmas,Goose; herbs; spices,Savory
+Germany,Stollen,Dessert,Sweet bread similar to fruitcake with dried fruits and nuts,Christmas,Flour; dried fruits; nuts; spices,Sweet
+Germany,Red Cabbage,Side,Braised red cabbage with spices,Christmas,Red cabbage; vinegar; spices,Savory
+Spain,12 Grapes,Tradition,Twelve grapes eaten at midnight on New Year's Eve for good luck,New Year's Eve,Grapes,Sweet
+Spain,Sopa de Galets,Soup,Hearty meat soup with large pasta shells from Catalonia,Christmas,Broth; beef; pork; pasta,Savory
+Spain,Turrón,Dessert,Nougat confection made with almonds and honey,Christmas,Almonds; honey; egg whites,Sweet
+Italy,Panettone,Dessert,Sweet bread loaf with candied fruits and raisins,Christmas,Flour; candied fruits; raisins; butter,Sweet
+Italy,Feast of Seven Fishes,Main,Seafood feast on Christmas Eve,Christmas Eve,Various fish; shellfish,Savory
+Sicily,Buccellato,Dessert,Circular cake with dried figs and nuts flavored with Marsala wine,Christmas,Figs; almonds; pine nuts; Marsala,Sweet
+Greece,Roasted Lamb,Main,Traditional roasted lamb served for Christmas dinner,Christmas,Lamb; herbs; lemon,Savory
+Greece,Christopsomo,Bread,Rustic Christmas bread with raisins and nuts decorated with a cross,Christmas Eve,Flour; raisins; nuts; spices,Sweet
+Greece,Baklava,Dessert,Layered pastry with honey and nuts,Christmas,Phyllo dough; nuts; honey,Sweet
+Denmark,Julesild,Appetizer,Pickled herring spiced with cinnamon and cloves,Christmas,Herring; spices; vinegar,Savory
+Denmark,Risalamande,Dessert,Rice pudding with almonds and cherry sauce with hidden almond prize,Christmas,Rice; cream; almonds; cherry sauce,Sweet
+Denmark,Roast Duck,Main,Crispy roasted duck,Christmas,Duck; herbs,Savory
+Norway,Lutefisk,Main,Dried fish treated with lye served with potatoes,Christmas,Cod; lye; potatoes,Savory
+Norway,Pinnekjøtt,Main,Salted and dried lamb ribs,Christmas,Lamb ribs; salt,Savory
+Sweden,Christmas Ham,Main,Glazed ham served for Christmas,Christmas,Ham; mustard; breadcrumbs,Savory
+Sweden,Risgrynsgröt,Dessert,Rice porridge with hidden almond,Christmas Eve,Rice; milk; cinnamon,Sweet
+Iceland,Hangikjöt,Main,Smoked lamb traditionally smoked over sheep dung,Christmas Eve,Lamb; smoke,Savory
+Iceland,Ptarmigan,Main,Game bird served as traditional Christmas meat,Christmas Eve,Ptarmigan,Savory
+UK,Roast Turkey,Main,Traditional roasted turkey with stuffing,Christmas,Turkey; stuffing; herbs,Savory
+UK,Christmas Pudding,Dessert,Rich steamed pudding with dried fruits,Christmas,Dried fruits; suet; breadcrumbs; brandy,Sweet
+UK,Mince Pies,Dessert,Small pastries filled with spiced dried fruits,Christmas,Pastry; dried fruits; spices,Sweet
+USA,Honey-Baked Ham,Main,Glazed ham with honey,Christmas,Ham; honey; brown sugar,Savory
+USA,Turkey with Stuffing,Main,Roasted turkey similar to Thanksgiving,Christmas,Turkey; bread; herbs,Savory
+USA,Pumpkin Pie,Dessert,Spiced pumpkin custard pie,Christmas,Pumpkin; spices; eggs; cream,Sweet
+Canada,Tourtière,Main,French-Canadian savory meat pie,Christmas Eve,Pork or beef; spices; pastry,Savory
+Mexico,Tamales,Main,Steamed corn dough filled with meat or beans,Christmas Eve,Corn masa; meat; chili,Savory
+Mexico,Ponche Navideño,Drink,Christmas punch with simmered fruits and cinnamon,Christmas,Guava; apples; cinnamon; sugar cane,Sweet
+Mexico,Bacalao,Main,Salted cod with tomatoes and olives,Christmas Eve,Cod; tomatoes; olives,Savory
+Venezuela,Pan de Jamón,Bread,Sweet-savory bread filled with ham and olives,Christmas Eve,Dough; ham; raisins; olives,Savory
+Venezuela,Hallacas,Main,Corn dough stuffed with meat wrapped in banana leaves,Christmas,Corn dough; meat; vegetables,Savory
+Philippines,Lechon,Main,Roasted suckling pig,Christmas Eve,Whole pig; salt; pepper,Savory
+Philippines,Bibingka,Breakfast,Rice cake with coconut milk eaten after midnight mass,Christmas Eve,Rice flour; coconut milk; eggs,Sweet
+Japan,KFC,Main,Kentucky Fried Chicken popularized by 1970s marketing campaign,Christmas Eve,Chicken; fried coating,Savory
+China,Longevity Noodles,Main,Extra-long noodles for Lunar New Year representing long life,Lunar New Year,Wheat noodles,Savory
+China,Dumplings,Main,Filled dumplings symbolizing wealth,Lunar New Year,Dough; pork; vegetables,Savory
+Russia,Olivier Salad,Side,Potato salad with meat and vegetables in mayo dressing,New Year,Potatoes; eggs; meat; mayo,Savory
+Russia,Sochivo,Main,Wheat or rice porridge with honey and nuts,Christmas Eve,Wheat; honey; nuts; fruits,Sweet
+Ukraine,Kutia,Main,Ceremonial grain dish with sweet gravy,Christmas,Wheat; honey; poppy seeds; nuts,Sweet
+Mongolia,Buuz,Main,Dumplings stuffed with minced meat for Lunar New Year,Lunar New Year,Dough; minced meat; onion,Savory
+Australia,BBQ Seafood,Main,Grilled seafood for summer Christmas,Christmas,Prawns; fish; squid,Savory
+Australia,Pavlova,Dessert,Meringue dessert with cream and fruit,Christmas,Meringue; cream; fresh fruit,Sweet
+New Zealand,BBQ Lamb,Main,Grilled lamb for summer Christmas,Christmas,Lamb; herbs,Savory
+New Zealand,Pavlova,Dessert,Meringue dessert claimed by both Australia and New Zealand,Christmas,Meringue; cream; kiwi fruit,Sweet
+South Africa,Malva Pudding,Dessert,Sponge cake with apricot jam and brandy,Christmas,Apricot jam; flour; cream; brandy,Sweet
+South Africa,Braai,Main,Barbecued meats,Christmas,Various meats,Savory
+Kenya,Nyama Choma,Main,Roasted goat or beef (national dish),Christmas,Goat or beef; salt,Savory
+Zambia,Chicken with Rice,Main,Traditional fried chicken with gravy,Christmas,Chicken; rice; tomatoes; spices,Savory
+Jamaica,Curried Goat,Main,Spicy curried goat with rice and peas,Christmas,Goat; curry spices; rice; beans,Savory
+Jamaica,Rum Cake,Dessert,Fruit cake infused with rum,Christmas,Dried fruits; rum; flour,Sweet
+India (Goa),Sorpotel,Main,Spicy pork stew with Portuguese influence,Christmas Eve,Pork; cinnamon; cumin; chili,Savory
+India (Goa),Sana,Dessert,Coconut liqueur rice cakes,Christmas,Rice; coconut; liqueur,Sweet
+Lebanon,Kibbeh Pie,Main,Layered meat and bulgur pie,Christmas,Bulgur; meat; pine nuts,Savory
+Iraq,Kuleicha,Dessert,Traditional cookies with date filling,Christmas/New Year,Flour; dates; cardamom,Sweet
+Georgia,Satsivi,Main,Turkey in walnut sauce served cold or hot,New Year,Turkey; walnuts; spices,Savory
+Syria,Yalanji,Appetizer,Stuffed grape leaves,New Year,Grape leaves; rice; herbs,Savory
+Madagascar,Chicken with Rice,Main,Fresh summer chicken with coconut,Christmas,Chicken; rice; coconut,Savory
+Austria,Fried Carp,Main,Traditional fried carp,Christmas Eve,Carp; breadcrumbs,Savory
+Austria,Sachertorte,Dessert,Chocolate-apricot cake from Vienna,Christmas,Chocolate; apricot jam; eggs,Sweet
+Brazil,Bacalhau,Main,Salted cod with potatoes and olives,Christmas Eve,Salted cod; potatoes; olives,Savory
+Brazil,Peru de Natal,Main,Roast turkey with Brazilian seasonings and tropical fruits,Christmas,Turkey; garlic; oranges; pineapple,Savory
+Brazil,Rabanada,Dessert,Brazilian French toast soaked in milk and wine with cinnamon sugar,Christmas,Bread; milk; wine; cinnamon,Sweet
+Brazil,Farofa,Side,Toasted cassava flour with bacon and butter,Christmas,Cassava flour; bacon; butter,Savory
+Brazil,Salpicão,Salad,Creamy chicken salad with fruits and potato sticks,Christmas Eve,Chicken; apples; mayo; potato sticks,Savory
+Brazil,Tender Natalino,Main,Glazed ham with honey and pineapple,Christmas,Ham; honey; pineapple; mustard,Savory
+Brazil,Panettone,Dessert,Italian sweet bread popular in Brazil,Christmas,Flour; candied fruits; raisins,Sweet
+Portugal,Bacalhau,Main,Boiled salt cod with potatoes and cabbage,Christmas Eve,Cod; potatoes; cabbage; olive oil,Savory
+Portugal,Polvo Lagareiro,Main,Roast octopus with smashed potatoes,Christmas,Octopus; potatoes; garlic; olive oil,Savory
+Portugal,Roast Kid Goat,Main,Oven-roasted goat with potatoes,Christmas,Goat; garlic; wine; potatoes,Savory
+Portugal,Bolo Rei,Dessert,King cake with dried fruits and nuts,Christmas,Flour; dried fruits; nuts; candied fruits,Sweet
+Portugal,Filhós,Dessert,Fried dough with honey,Christmas,Flour; eggs; honey; olive oil,Sweet
+Argentina,Vitel Toné,Main,Cold sliced veal with tuna-mayonnaise sauce,Christmas Eve,Veal; tuna; mayo; capers; anchovies,Savory
+Argentina,Asado,Main,Traditional barbecue with various grilled meats,Christmas,Beef; lamb; sausages; chimichurri,Savory
+Argentina,Ensalada Rusa,Salad,Russian potato salad Argentine style,Christmas Eve,Potatoes; carrots; peas; mayo,Savory
+Argentina,Pionono,Appetizer,Savory Swiss roll with ham and cheese,Christmas Eve,Sponge cake; ham; cheese; mayo,Savory
+Argentina,Pan Dulce,Dessert,Sweet bread with candied fruits,Christmas,Flour; candied fruits; raisins,Sweet
+Argentina,Turrón,Dessert,Nougat with peanuts and honey,Christmas,Nougat; peanuts; honey,Sweet
+Chile,Roast Turkey,Main,Traditional roasted turkey,Christmas,Turkey; herbs; spices,Savory
+Chile,Pan de Pascua,Bread,Easter bread with spices and dried fruits,Christmas,Flour; dried fruits; spices; honey,Sweet
+Chile,Cola de Mono,Drink,Coffee and brandy cocktail with milk,Christmas,Brandy; milk; coffee; cinnamon,Sweet
+Netherlands,Gourmetten,Main,Table-top grilling with small portions,Christmas,Various meats; vegetables; sauces,Savory
+Netherlands,Kerstbrood,Bread,Christmas bread with almond paste,Christmas,Flour; almond paste; raisins,Sweet
+Netherlands,Kerststol,Dessert,Dutch Christmas cake similar to stollen,Christmas,Flour; dried fruits; almond paste,Sweet
+Czech Republic,Fried Carp,Main,Breaded and fried carp fillets,Christmas Eve,Carp; flour; eggs; breadcrumbs,Savory
+Czech Republic,Potato Salad,Side,Czech potato salad with pickles and mayo,Christmas Eve,Potatoes; peas; pickles; eggs; mayo,Savory
+Czech Republic,Fish Soup,Soup,Soup made from carp head and vegetables,Christmas Eve,Carp; carrots; root vegetables,Savory
+Czech Republic,Vánočka,Bread,Braided sweet bread with raisins and almonds,Christmas Eve,Flour; raisins; almonds; butter,Sweet
+Czech Republic,Vánoční Cukroví,Dessert,Traditional Christmas cookies in many varieties,Christmas,Flour; sugar; butter; nuts,Sweet
+Russia,Herring Under Fur Coat,Salad,Layered salad with herring and beets,New Year,Herring; beets; potatoes; mayo,Savory
+Russia,Roast Goose,Main,Roasted goose stuffed with apples,Christmas,Goose; apples; herbs,Savory
+Russia,Pelmeni,Main,Meat dumplings served with sour cream,New Year,Dough; pork; beef; sour cream,Savory
+Russia,Holodets,Appetizer,Meat jelly made from pork or beef,New Year,Pork; beef; garlic; gelatin,Savory
+Russia,Shuba Salad,Salad,Another name for Herring Under Fur Coat,New Year,Herring; beets; potatoes; carrots; mayo,Savory
+Ecuador,Tamales,Main,Corn dough stuffed with meat wrapped in leaves,Christmas,Corn dough; pork; chicken; achira leaves,Savory
+El Salvador,Panes con Pollo,Main,Chicken sandwiches traditional for Christmas Eve,Christmas Eve,Chicken; bread; vegetables,Savory
+Colombia,Natilla,Dessert,Creamy milk pudding with cinnamon,Christmas,Milk; cornstarch; cinnamon; sugar,Sweet
+Colombia,Buñuelos,Dessert,Fried cheese fritters,Christmas,Cheese; flour; eggs,Savory
+Peru,Panetón,Dessert,Peruvian version of panettone,Christmas,Flour; candied fruits; raisins,Sweet
+Peru,Hot Chocolate,Drink,Rich hot chocolate with cinnamon,Christmas,Chocolate; milk; cinnamon,Sweet
+Ethiopia,Doro Wat,Main,Spicy chicken stew for Ethiopian Christmas,Christmas,Chicken; berbere spice; onions,Savory
+Ethiopia,Injera,Bread,Spongy sourdough flatbread,Christmas,Teff flour; water,Savory
+Thailand,Khao Chae,Main,Rice in jasmine-scented ice water for hot season,New Year,Rice; jasmine water; side dishes,Savory
+Vietnam,Bánh Chưng,Main,Square sticky rice cake for Tet,Lunar New Year,Sticky rice; mung beans; pork,Savory
+Korea,Tteokguk,Soup,Rice cake soup for Lunar New Year,Lunar New Year,Rice cakes; beef broth; eggs,Savory
+Korea,Japchae,Side,Stir-fried glass noodles with vegetables,Lunar New Year,Glass noodles; vegetables; beef,Savory
+Turkey,Boza,Drink,Fermented grain drink,New Year,Wheat; sugar; water,Sweet
+Turkey,Lokma,Dessert,Fried dough balls with syrup,New Year,Flour; syrup; honey,Sweet
+Finland,Joulukinkku,Main,Christmas ham glazed with mustard,Christmas,Ham; mustard; breadcrumbs,Savory
+Finland,Rosolli,Salad,Beetroot salad,Christmas,Beets; carrots; potatoes; pickles,Savory
+Finland,Joulutorttu,Dessert,Star-shaped pastries with prune jam,Christmas,Puff pastry; prune jam,Sweet
+Ireland,Spiced Beef,Main,Cork tradition of spiced and salted beef,Christmas,Beef; spices; salt,Savory
+Ireland,Christmas Pudding,Dessert,Rich steamed pudding with whiskey,Christmas,Dried fruits; suet; whiskey,Sweet
+Scotland,Black Bun,Dessert,Dense fruitcake wrapped in pastry,New Year,Dried fruits; spices; pastry,Sweet
+Scotland,Steak Pie,Main,Beef pie traditional for Hogmanay,New Year,Beef; pastry; gravy,Savory
+Belgium,Cougnou,Bread,Baby Jesus-shaped sweet bread,Christmas,Flour; sugar; butter,Sweet
+Belgium,Speculoos,Dessert,Spiced shortcrust biscuits,Christmas,Flour; brown sugar; spices,Sweet
+Switzerland,Fondue,Main,Melted cheese dish,Christmas,Cheese; white wine; garlic,Savory
+Switzerland,Tirggel,Dessert,Thin honey cookies from Zurich,Christmas,Flour; honey,Sweet
+Hungary,Bejgli,Dessert,Poppy seed or walnut filled pastry roll,Christmas,Flour; poppy seeds; walnuts,Sweet
+Hungary,Fish Soup,Soup,Spicy paprika fish soup (halászlé),Christmas Eve,Carp; paprika; onions,Savory
+Romania,Sarmale,Main,Cabbage rolls stuffed with meat and rice,Christmas,Cabbage; pork; rice,Savory
+Romania,Cozonac,Dessert,Sweet bread with cocoa and walnuts,Christmas,Flour; cocoa; walnuts; sugar,Sweet
+Serbia,Česnica,Bread,Round Christmas bread with hidden coin,Christmas,Flour; yeast; water,Savory
+Serbia,Sarma,Main,Cabbage rolls with meat,Christmas,Cabbage; pork; rice,Savory
+Croatia,Bakalar,Main,Salted cod with potatoes,Christmas Eve,Cod; potatoes; garlic,Savory
+Croatia,Fritule,Dessert,Small fried doughnuts,Christmas,Flour; eggs; raisins; rum,Sweet
+Lithuania,Kūčiukai,Dessert,Small poppy seed cookies,Christmas Eve,Flour; poppy seeds; honey,Sweet
+Lithuania,Mushroom Soup,Soup,Wild mushroom soup,Christmas Eve,Wild mushrooms; barley,Savory
+Latvia,Pīrāgi,Appetizer,Bacon-filled pastries,Christmas,Pastry; bacon; onions,Savory
+Latvia,Piparkūkas,Dessert,Gingerbread cookies,Christmas,Flour; ginger; honey,Sweet
+Estonia,Verivorst,Main,Blood sausage with lingonberry jam,Christmas,Blood sausage; barley; lingonberries,Savory
+Estonia,Piparkoogid,Dessert,Spiced gingerbread cookies,Christmas,Flour; ginger; cinnamon,Sweet
+Bulgaria,Banitsa,Main,Cheese-filled phyllo pastry,Christmas,Phyllo; cheese; eggs,Savory
+Bulgaria,Sarmi,Main,Grape leaves stuffed with rice,Christmas,Grape leaves; rice; herbs,Savory
+Slovenia,Potica,Dessert,Rolled sweet bread with walnut filling,Christmas,Flour; walnuts; honey,Sweet
+Slovenia,Žganci,Side,Buckwheat spoonbread,Christmas,Buckwheat flour; salt,Savory
+Slovakia,Kapustnica,Soup,Sauerkraut soup with sausage,Christmas,Sauerkraut; sausage; mushrooms,Savory
+Slovakia,Opekance,Dessert,Fried dough with poppy seeds,Christmas,Dough; poppy seeds; honey,Sweet
+Norway,Ribbe,Main,Pork ribs,Christmas,Pork ribs; salt,Savory
+Norway,Multekrem,Dessert,Cloudberry cream,Christmas,Cloudberries; cream; sugar,Sweet
+Canada,Butter Tarts,Dessert,Sweet pastry with butter filling,Christmas,Pastry; butter; sugar; raisins,Sweet
+Peru,Turkey,Main,Roasted turkey Peruvian style,Christmas,Turkey; aji amarillo; herbs,Savory
+Bolivia,Picana,Soup,Festive soup with beef and vegetables,Christmas,Beef; corn; potatoes,Savory
+Uruguay,Asado,Main,Traditional barbecue,Christmas,Beef; lamb; sausages,Savory
+Paraguay,Sopa Paraguaya,Side,Corn bread (despite the name),Christmas,Corn; cheese; onions,Savory
+Costa Rica,Tamales,Main,Corn dough with pork wrapped in banana leaves,Christmas,Corn masa; pork; banana leaves,Savory
+Panama,Arroz con Pollo,Main,Rice with chicken,Christmas,Rice; chicken; vegetables,Savory
+Guatemala,Tamales,Main,Guatemalan-style tamales,Christmas,Corn masa; chicken; peppers,Savory
+Honduras,Nacatamales,Main,Large tamales with rice,Christmas,Corn masa; pork; rice,Savory
+Nicaragua,Nacatamales,Main,Nicaraguan tamales,Christmas,Corn masa; pork; potatoes,Savory
+Dominican Republic,Roast Pork,Main,Lechón asado,Christmas,Pork; citrus; garlic,Savory
+Puerto Rico,Arroz con Gandules,Main,Rice with pigeon peas,Christmas,Rice; pigeon peas; pork,Savory
+Puerto Rico,Pasteles,Main,Plantain masa wrapped parcels,Christmas,Green plantains; pork; banana leaves,Savory
+Cuba,Roast Pork,Main,Lechón asado,Christmas,Pork; mojo sauce; garlic,Savory
+Cuba,Yuca con Mojo,Side,Yuca with garlic sauce,Christmas,Yuca; garlic; citrus,Savory
+Egypt,Fatta,Main,Lamb and rice dish,Christmas,Lamb; rice; bread; garlic,Savory
+Egypt,Kahk,Dessert,Butter cookies with powdered sugar,Christmas,Flour; butter; powdered sugar,Sweet
+Armenia,Ghapama,Main,Stuffed pumpkin with rice and dried fruits,New Year,Pumpkin; rice; dried fruits,Sweet
+Armenia,Gata,Dessert,Sweet pastry,Christmas,Flour; butter; sugar,Sweet
+Malta,Timpana,Main,Baked pasta pie,Christmas,Pasta; meat; eggs; pastry,Savory
+Malta,Qaghaq tal-Ghasel,Dessert,Honey rings,Christmas,Flour; honey; spices,Sweet
