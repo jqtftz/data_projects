@@ -3,7 +3,7 @@
 ## Аналитика данных
 | Название проекта | Описание проекта | Инструменты |
 |---|---|---|
-| GitHub Topics dashboard | Развернул базу данных на Supabase. Написал python-скрипт, обновляющий данные в базе через API-запросы к GitHub. Настроил автоматический запуск скрипта раз в неделю с помощью GitHub Actions. | [SQL](https://github.com/jqtftz/data_projects/blob/main/github_topics_dashboard/data_model_create.sql), [Rest API, requests, numpy, pandas, supabase](https://github.com/jqtftz/data_projects/blob/main/github_topics_dashboard/main.py), [GitHub Actions](https://github.com/jqtftz/data_projects/blob/main/github_topics_dashboard/yml_script.txt) |
+| ETL ~ GitHub Topics | Развернул базу данных на Supabase. Написал python-скрипт, обновляющий данные в базе через API-запросы к GitHub. Настроил автоматический запуск скрипта раз в неделю с помощью GitHub Actions. | [SQL](https://github.com/jqtftz/data_projects/blob/main/github_topics_dashboard/data_model_create.sql), [Rest API, requests, numpy, pandas, supabase](https://github.com/jqtftz/data_projects/blob/main/github_topics_dashboard/main.py), [GitHub Actions](https://github.com/jqtftz/data_projects/blob/main/github_topics_dashboard/yml_script.txt) |
 | [Расчет юнит-экономики](https://github.com/jqtftz/data_projects/blob/main/product_analytics.ipynb) | Вы — продуктовый аналитик развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс. | pandas, numpy, seaborn, matplotlib, statsmodels |
 
 ## Визуализация данных
